@@ -69,3 +69,4 @@ kubernetes
 
 # DigitalOcean Cloud Provider
 pydo >=0.2.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
